@@ -1,0 +1,5 @@
+title,description,duration_minutes,timezone,account_name,user_id,datetime_1,datetime_2,datetime_3,datetime_4,datetime_5
+SSG Room 1 小型学习团体1,Small Study Group Room 1 sessions,60,Asia/Shanghai,Primary Account,,2024-03-15T08:15:00,2024-03-16T09:30:00,2024-03-18T11:00:00,,
+RAG 1 回顾与应用团体1,Review and Application Group 1 sessions,60,Asia/Shanghai,Secondary Account,,2024-03-15T12:15:00,2024-03-16T12:15:00,2024-03-17T12:15:00,2024-03-18T12:15:00,2024-03-19T10:45:00
+IE Room 1 机构活动室1,Institutional Event Room 1 sessions,60,Asia/Shanghai,Primary Account,,2024-03-17T08:15:00,2024-03-17T09:30:00,2024-03-17T11:00:00,,
+Large Study Group (LSG) 大型学习团体,ALL LSG sessions - SAME ZOOM ID,60,Asia/Shanghai,Primary Account,,2024-03-15T09:30:00,2024-03-16T08:15:00,2024-03-18T09:30:00,2024-03-19T07:00:00,

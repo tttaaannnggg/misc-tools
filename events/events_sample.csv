@@ -1,0 +1,3 @@
+title,description,duration_minutes,timezone,account_name,user_id,datetime_1,datetime_2,datetime_3
+Daily Standup,Daily team meeting,30,America/New_York,Primary Account,,2024-01-15T09:00:00,2024-01-16T09:00:00,2024-01-17T09:00:00
+Weekly Review,Weekly project review,60,America/New_York,Secondary Account,custom_user@company.com,2024-01-15T14:00:00,2024-01-22T14:00:00,2024-01-29T14:00:00

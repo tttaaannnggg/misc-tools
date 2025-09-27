@@ -1,0 +1,6 @@
+{
+  "account_id": "your_zoom_account_id",
+  "client_id": "your_zoom_client_id",
+  "client_secret": "your_zoom_client_secret",
+  "user_id": "your_zoom_user_email_or_id"
+}

@@ -1,0 +1,120 @@
+{
+  "events": [
+    {
+      "title": "Opening Plenary 开幕式",
+      "description": "IGRC Conference 2024 Opening Session - Mainland China and Taiwan",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "account_name": "Primary Account",
+      "instances": ["2024-03-15T07:00:00"],
+      "settings": {
+        "waiting_room": true,
+        "mute_upon_entry": true,
+        "host_video": true,
+        "participant_video": false
+      }
+    },
+    {
+      "title": "Small Study Groups (SSG) 小型学习团体",
+      "description": "Small Study Group Sessions",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "account_name": "Secondary Account",
+      "instances": [
+        "2024-03-15T08:15:00",
+        "2024-03-16T09:30:00",
+        "2024-03-18T11:00:00",
+        "2024-03-19T08:15:00"
+      ],
+      "settings": {
+        "waiting_room": false,
+        "mute_upon_entry": false,
+        "breakout_room": true
+      }
+    },
+    {
+      "title": "Large Study Groups (LSG) 大型学习团体",
+      "description": "Large Study Group Sessions",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "account_name": "Primary Account",
+      "instances": [
+        "2024-03-15T09:30:00",
+        "2024-03-16T08:15:00",
+        "2024-03-18T09:30:00",
+        "2024-03-19T07:00:00"
+      ]
+    },
+    {
+      "title": "Social Dreaming Matrix 社会梦场",
+      "description": "Social Dreaming Matrix Sessions",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "account_name": "Secondary Account",
+      "instances": [
+        "2024-03-16T07:00:00",
+        "2024-03-17T07:00:00",
+        "2024-03-18T07:00:00"
+      ],
+      "settings": {
+        "waiting_room": true,
+        "mute_upon_entry": true,
+        "host_video": false,
+        "participant_video": false
+      }
+    },
+    {
+      "title": "Institutional Events (IE) 机构活动",
+      "description": "Institutional Event Sessions",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "account_name": "Primary Account",
+      "instances": [
+        "2024-03-17T08:15:00",
+        "2024-03-17T09:30:00",
+        "2024-03-17T11:00:00",
+        "2024-03-18T08:15:00"
+      ],
+      "settings": {
+        "waiting_room": true,
+        "approval_type": 1
+      }
+    },
+    {
+      "title": "Review and Application Groups (RAG) 回顾与应用团体",
+      "description": "Review and Application Group Sessions",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "account_name": "Secondary Account",
+      "instances": [
+        "2024-03-15T12:15:00",
+        "2024-03-16T12:15:00",
+        "2024-03-17T12:15:00",
+        "2024-03-18T12:15:00",
+        "2024-03-19T10:45:00"
+      ],
+      "settings": {
+        "waiting_room": false,
+        "mute_upon_entry": false,
+        "breakout_room": true
+      }
+    },
+    {
+      "title": "Closing Plenary 闭幕式",
+      "description": "IGRC Conference 2024 Closing Session",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "account_name": "Primary Account",
+      "instances": [
+        "2024-03-19T09:30:00"
+      ],
+      "settings": {
+        "waiting_room": true,
+        "mute_upon_entry": true,
+        "host_video": true,
+        "participant_video": false,
+        "auto_recording": "cloud"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "events": [
+    {
+      "title": "Daily Standup",
+      "description": "Daily team standup meeting",
+      "duration_minutes": 30,
+      "timezone": "America/New_York",
+      "account_name": "Primary Account",
+      "instances": [
+        "2024-01-15T09:00:00",
+        "2024-01-16T09:00:00",
+        "2024-01-17T09:00:00",
+        "2024-01-18T09:00:00",
+        "2024-01-19T09:00:00"
+      ],
+      "settings": {
+        "waiting_room": true,
+        "mute_upon_entry": true
+      }
+    },
+    {
+      "title": "Weekly Review",
+      "description": "Weekly project review meeting",
+      "duration_minutes": 60,
+      "timezone": "America/New_York",
+      "account_name": "Secondary Account",
+      "user_id": "custom_user@company.com",
+      "instances": [
+        "2024-01-15T14:00:00",
+        "2024-01-22T14:00:00",
+        "2024-01-29T14:00:00"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "accounts": [
+    {
+      "name": "Primary Account",
+      "account_id": "primary_account_id",
+      "client_id": "primary_client_id",
+      "client_secret": "primary_client_secret",
+      "user_id": "primary_user@company.com"
+    },
+    {
+      "name": "Secondary Account",
+      "account_id": "secondary_account_id",
+      "client_id": "secondary_client_id",
+      "client_secret": "secondary_client_secret",
+      "user_id": "secondary_user@company.com"
+    }
+  ]
+}

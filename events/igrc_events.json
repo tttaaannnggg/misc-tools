@@ -1,0 +1,189 @@
+{
+  "events": [
+    {
+      "title": "Opening Plenary 开幕式",
+      "description": "IGRC Conference 2024 Opening Session - Mainland China and Taiwan",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": ["2024-03-15T07:00:00"],
+      "settings": {
+        "waiting_room": true,
+        "mute_upon_entry": true,
+        "host_video": true,
+        "participant_video": false
+      }
+    },
+    {
+      "title": "Small Study Group 1 (SSG) 小型学习团体 1",
+      "description": "Small Study Group Session 1",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-15T08:15:00",
+        "2024-03-16T09:30:00",
+        "2024-03-18T11:00:00"
+      ],
+      "settings": {
+        "waiting_room": false,
+        "mute_upon_entry": false,
+        "breakout_room": true
+      }
+    },
+    {
+      "title": "Large Study Group 1 (LSG) 大型学习团体 1",
+      "description": "Large Study Group Session 1",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-15T09:30:00"
+      ],
+      "settings": {
+        "waiting_room": false,
+        "mute_upon_entry": false
+      }
+    },
+    {
+      "title": "Social Dreaming Matrix 1 社会梦场 1",
+      "description": "Social Dreaming Matrix Session 1",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-16T07:00:00"
+      ],
+      "settings": {
+        "waiting_room": true,
+        "mute_upon_entry": true,
+        "host_video": false,
+        "participant_video": false
+      }
+    },
+    {
+      "title": "Large Study Group 2 (LSG) 大型学习团体 2",
+      "description": "Large Study Group Session 2",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-16T08:15:00"
+      ]
+    },
+    {
+      "title": "Social Dreaming Matrix 2 社会梦场 2",
+      "description": "Social Dreaming Matrix Session 2",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-17T07:00:00"
+      ]
+    },
+    {
+      "title": "Institutional Event 1 (IE) 机构活动 1",
+      "description": "Institutional Event Session 1",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-17T08:15:00"
+      ],
+      "settings": {
+        "waiting_room": true,
+        "approval_type": 1
+      }
+    },
+    {
+      "title": "Institutional Event 2 (IE) 机构活动 2",
+      "description": "Institutional Event Session 2",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-17T09:30:00"
+      ]
+    },
+    {
+      "title": "Social Dreaming Matrix 3 社会梦场 3",
+      "description": "Social Dreaming Matrix Session 3",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-18T07:00:00"
+      ]
+    },
+    {
+      "title": "Institutional Event 3 (IE) 机构活动 3",
+      "description": "Institutional Event Session 3",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-17T11:00:00"
+      ]
+    },
+    {
+      "title": "Institutional Event Closing 机构活动闭幕式",
+      "description": "Institutional Event Closing Session",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-18T08:15:00"
+      ]
+    },
+    {
+      "title": "Large Study Group 3 (LSG) 大型学习团体 3",
+      "description": "Large Study Group Session 3",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-18T09:30:00"
+      ]
+    },
+    {
+      "title": "Large Study Group 4 (LSG) 大型学习团体 4",
+      "description": "Large Study Group Session 4",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-19T07:00:00"
+      ]
+    },
+    {
+      "title": "Small Study Group 5 (SSG) 小型学习团体 5",
+      "description": "Small Study Group Session 5",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-19T08:15:00"
+      ]
+    },
+    {
+      "title": "Closing Plenary 闭幕式",
+      "description": "IGRC Conference 2024 Closing Session",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-19T09:30:00"
+      ],
+      "settings": {
+        "waiting_room": true,
+        "mute_upon_entry": true,
+        "host_video": true,
+        "participant_video": false,
+        "auto_recording": "cloud"
+      }
+    },
+    {
+      "title": "Review and Application Group 1-5 回顾与应用团体",
+      "description": "Review and Application Group Sessions",
+      "duration_minutes": 60,
+      "timezone": "Asia/Shanghai",
+      "instances": [
+        "2024-03-15T12:15:00",
+        "2024-03-16T12:15:00",
+        "2024-03-17T12:15:00",
+        "2024-03-18T12:15:00",
+        "2024-03-19T10:45:00"
+      ],
+      "settings": {
+        "waiting_room": false,
+        "mute_upon_entry": false,
+        "breakout_room": true
+      }
+    }
+  ]
+}

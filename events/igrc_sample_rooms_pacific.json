@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "title": "SSG Room 1 小型学习团体1",
+      "description": "Small Study Group Room 1 sessions from IGRC conference schedule",
+      "duration_minutes": 60,
+      "timezone": "America/Los_Angeles",
+      "account_name": "Primary Account",
+      "instances": [
+        "2024-03-14T17:15:00",
+        "2024-03-15T18:30:00",
+        "2024-03-17T20:00:00"
+      ],
+      "settings": {
+        "waiting_room": false,
+        "mute_upon_entry": false,
+        "join_before_host": true,
+        "participant_video": true
+      }
+    },
+    {
+      "title": "RAG 1 回顾与应用团体1",
+      "description": "Review and Application Group 1 sessions from IGRC conference schedule",
+      "duration_minutes": 60,
+      "timezone": "America/Los_Angeles",
+      "account_name": "Secondary Account",
+      "instances": [
+        "2024-03-14T21:15:00",
+        "2024-03-15T21:15:00",
+        "2024-03-16T21:15:00",
+        "2024-03-17T21:15:00",
+        "2024-03-18T19:45:00"
+      ],
+      "settings": {
+        "waiting_room": false,
+        "mute_upon_entry": false,
+        "breakout_room": true,
+        "join_before_host": true
+      }
+    },
+    {
+      "title": "IE Room 1 机构活动室1",
+      "description": "Institutional Event Room 1 sessions from IGRC conference schedule",
+      "duration_minutes": 60,
+      "timezone": "America/Los_Angeles",
+      "account_name": "Primary Account",
+      "instances": [
+        "2024-03-16T17:15:00",
+        "2024-03-16T18:30:00",
+        "2024-03-16T20:00:00"
+      ],
+      "settings": {
+        "waiting_room": true,
+        "mute_upon_entry": true,
+        "approval_type": 1,
+        "join_before_host": false
+      }
+    },
+    {
+      "title": "Large Study Group (LSG) 大型学习团体 - ALL SESSIONS",
+      "description": "All Large Study Group sessions - SAME ZOOM ID for all instances",
+      "duration_minutes": 60,
+      "timezone": "America/Los_Angeles",
+      "account_name": "Primary Account",
+      "instances": [
+        "2024-03-14T18:30:00",
+        "2024-03-15T17:15:00",
+        "2024-03-17T18:30:00",
+        "2024-03-18T16:00:00"
+      ],
+      "settings": {
+        "waiting_room": false,
+        "mute_upon_entry": false,
+        "join_before_host": true,
+        "participant_video": true,
+        "host_video": true,
+        "auto_recording": "cloud"
+      }
+    }
+  ]
+}

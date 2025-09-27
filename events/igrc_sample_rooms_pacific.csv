@@ -1,0 +1,5 @@
+title,description,duration_minutes,timezone,account_name,user_id,datetime_1,datetime_2,datetime_3,datetime_4,datetime_5
+SSG Room 1 小型学习团体1,Small Study Group Room 1 sessions,60,America/Los_Angeles,Primary Account,,2024-10-03T17:15:00,2024-10-04T18:30:00,2024-10-06T20:00:00,,
+RAG 1 回顾与应用团体1,Review and Application Group 1 sessions,60,America/Los_Angeles,Secondary Account,,2024-10-03T21:15:00,2024-10-04T21:15:00,2024-10-05T21:15:00,2024-10-06T21:15:00,2024-10-07T19:45:00
+IE Room 1 机构活动室1,Institutional Event Room 1 sessions,60,America/Los_Angeles,Primary Account,,2024-10-05T17:15:00,2024-10-05T18:30:00,2024-10-05T20:00:00,,
+Large Study Group (LSG) 大型学习团体,ALL LSG sessions - SAME ZOOM ID,60,America/Los_Angeles,Primary Account,,2024-10-03T18:30:00,2024-10-04T17:15:00,2024-10-06T18:30:00,2024-10-07T16:00:00,
